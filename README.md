@@ -9,10 +9,15 @@
     <a href="https://www.youtube.com/channel/UCwx0ZmftvUEpotkKnKZiJqQ">
     <img height="50cm" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </div>
+        
+<div>
+    <img height="220cm" src="https://github-readme-stats.vercel.app/api?username=iDuug&theme=blue-green">
+</div>
      
 ## Sou Progamador Das Linguagens:
 <div>
     <img height="50cm" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img height="50cm" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img height="50cm" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>     
       
