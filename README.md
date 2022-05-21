@@ -17,6 +17,6 @@
 ## Sou Progamador Das Linguagens:
 <div>
     <img height="50cm" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><!--Java-->
-    <img height="50cm" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><!--JavaScript-->
+    <p> </p><img height="50cm" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><!--JavaScript-->
 </div>     
       
