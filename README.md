@@ -24,8 +24,3 @@
     <br>
     <br>
 </div>     
-
-    
-# Mais Sobre mim :)
-    
-## Sou Brasileiro  🇧🇷
