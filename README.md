@@ -6,4 +6,4 @@
 
 Sou Um Progamador Back-end De **Node-js** Que Esta Aprendendo **Javascript Completo**
 
-<img src="https://c.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif">
+![imsickofwork-technologysu-x](https://user-images.githubusercontent.com/101751925/172491478-0543b9b4-6a92-418d-8402-f6c87daa6d32.gif)
