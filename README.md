@@ -4,7 +4,7 @@
 
 # ***Mas Sobre Mim:***
 
-👨‍💻💻 Sou Um Progamador Back-end De ***Node-js*** Que Esta Aprendendo Front-end de ***Javascript*** 👨‍💻💻
+👨‍💻💻 Sou Um Progamador Back-end De ***Node-js*** Que Esta Aprendendo Front-end de ***Javascript*** 💻👨‍💻
 
 🇧🇷 Eu Sou Do ***Rio De Janeiro*** Na Cidade De ***Petrópolis*** 🇧🇷
 
